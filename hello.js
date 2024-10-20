@@ -1,2 +1,3 @@
-console.log('Hello world')
-let home = 1
+let name = prompt('entre your name: ');
+console.log(`Hello ${name}`);
+

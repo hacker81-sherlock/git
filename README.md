@@ -1,3 +1,2 @@
-# git
-
-    this is git
+# github
+    git and github is the best combo

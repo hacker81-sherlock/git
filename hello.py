@@ -1,2 +1,5 @@
+def greet(name):
+    return f'Hello, {name}'
+
 name = input('entre your name: ')
-print(f'Hello {name}')
+print(greet(name))
